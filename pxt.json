@@ -1,0 +1,21 @@
+{
+    "name": "microbit-montecharge-noir",
+    "description": "Extension pédagogique micro:bit pour piloter un monte-charge (noir)",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ]
+}
